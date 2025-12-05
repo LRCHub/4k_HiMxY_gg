@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Apple Pie",
+  "base_artist": "Hearts2Hearts",
+  "createdAt": "2025-12-05T14:48:11.006669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Apple Pie Bed",
+      "artist": "Lawrence Arabia",
+      "has_synced": false,
+      "path": "select/01_Apple_Pie_Bed_Lawrence_Arabia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "APPLE PIE",
+      "artist": "XYLØ",
+      "has_synced": true,
+      "path": "select/02_APPLE_PIE_XYLØ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Apple Pie",
+      "artist": "Lizzy McAlpine",
+      "has_synced": false,
+      "path": "select/03_Apple_Pie_Lizzy_McAlpine.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Apple Pie Cowboy Toothpaste",
+      "artist": "Fenix TX",
+      "has_synced": true,
+      "path": "select/04_Apple_Pie_Cowboy_Toothpaste_Fenix_TX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Apple Pie",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/05_Apple_Pie_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Apple Pie",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/06_Apple_Pie_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Apple Pie À La Mode",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/07_Apple_Pie_À_La_Mode_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cat's Eye, Apple Pie",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/08_Cat's_Eye,_Apple_Pie_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cat's Eye Apple Pie (B- Side to Shanghai'd in Shanghai)",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/09_Cat's_Eye_Apple_Pie_(B-_Side_to_Shanghai'd_in_Shanghai)_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cat's Eye Apple Pie (B- side)",
+      "artist": "Nazareth",
+      "has_synced": false,
+      "path": "select/10_Cat's_Eye_Apple_Pie_(B-_side)_Nazareth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ma, I Miss Your Apple Pie",
+      "artist": "Ambrose and His Orchestra",
+      "has_synced": false,
+      "path": "select/11_Ma,_I_Miss_Your_Apple_Pie_Ambrose_and_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Apple Pie",
+      "artist": "Stereoside",
+      "has_synced": true,
+      "path": "select/12_Apple_Pie_Stereoside.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Apple Pie a La Mode",
+      "artist": "Petit Milady",
+      "has_synced": true,
+      "path": "select/13_Apple_Pie_a_La_Mode_Petit_Milady.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Apple Pie à la Mode",
+      "artist": "petit milady",
+      "has_synced": true,
+      "path": "select/14_Apple_Pie_à_la_Mode_petit_milady.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Adam's Apple Pie",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/15_Adam's_Apple_Pie_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Apple Pie",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/16_Apple_Pie_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Apple Pie",
+      "artist": "B.o.B",
+      "has_synced": false,
+      "path": "select/17_Apple_Pie_B.o.B.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Apple Pie & Police State",
+      "artist": "Choking Victim",
+      "has_synced": false,
+      "path": "select/18_Apple_Pie_&_Police_State_Choking_Victim.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Apple Pie",
+      "artist": "Hearts2Hearts",
+      "has_synced": false,
+      "path": "select/pl_01_Apple_Pie_Hearts2Hearts.txt"
+    }
+  ]
+}
